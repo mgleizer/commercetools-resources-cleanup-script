@@ -28,7 +28,7 @@ Ensure your system has the following installed:
 
 ## 🚀 How to Run
 
-1. **Download** the `delete_documents.sh` script from this repository.
+1. **Download** the `delete_resources.sh` script from this repository.
 2. **Open the script** in your preferred text editor.
 3. **Edit the following variables**:
    - `API_URL`: Set this to your commercetools project’s API URL.
@@ -38,15 +38,15 @@ Ensure your system has the following installed:
 6. Make the script executable:
 
     ```bash
-    chmod +x delete_documents.sh
+    chmod +x delete_resources.sh
     ```
 
 7. Execute the script:
 
     ```bash
-    ./delete_documents.sh
+    ./delete_resources.sh
     ```
 
-8. The script will begin deleting documents. **Wait until it finishes before closing the terminal.**
+8. The script will begin deleting resources. **Wait until it finishes before closing the terminal.**
 
 ---

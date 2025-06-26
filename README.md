@@ -14,7 +14,6 @@ This script will **delete all order edits**.
 We strongly recommend the following precautions:
 
 - Use an authentication token with **only the `manage_order_edits` scope**.
-- Have a **developer** perform this operation.
 - **Test the script in a non-production environment** before running it in a live project.
 
 ---
